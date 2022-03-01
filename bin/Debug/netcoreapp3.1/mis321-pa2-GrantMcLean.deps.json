@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "mis321-pa2-GrantMcLean/1.0.0": {
+        "runtime": {
+          "mis321-pa2-GrantMcLean.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis321-pa2-GrantMcLean/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

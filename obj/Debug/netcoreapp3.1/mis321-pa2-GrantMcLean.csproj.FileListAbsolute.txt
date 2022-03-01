@@ -1,0 +1,13 @@
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\obj\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.csprojAssemblyReference.cache
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\obj\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.AssemblyInfoInputs.cache
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\obj\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.AssemblyInfo.cs
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\obj\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.csproj.CoreCompileInputs.cache
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\bin\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.exe
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\bin\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.deps.json
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\bin\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.runtimeconfig.json
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\bin\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.runtimeconfig.dev.json
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\bin\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.dll
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\bin\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.pdb
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\obj\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.dll
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\obj\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.pdb
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\mis321-pa2-GrantMcLean\obj\Debug\netcoreapp3.1\mis321-pa2-GrantMcLean.genruntimeconfig.cache
